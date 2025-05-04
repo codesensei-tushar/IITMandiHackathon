@@ -1,0 +1,11 @@
+torch==2.2.2
+torchvision==0.17.2
+streamlit==1.45.0
+opencv-python==4.9.0.80
+numpy==2.2.5
+pillow==11.2.1
+matplotlib
+pyyaml
+tqdm
+psutil
+py-cpuinfo
